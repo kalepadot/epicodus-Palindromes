@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palin.deps.json
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palin.runtimeconfig.json
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palin.runtimeconfig.dev.json
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palin.dll
+/Users/Guest/Desktop/Palindromes/bin/Debug/netcoreapp2.2/palin.pdb
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palin.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palin.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palin.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palin.AssemblyInfo.cs
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palin.dll
+/Users/Guest/Desktop/Palindromes/obj/Debug/netcoreapp2.2/palin.pdb
